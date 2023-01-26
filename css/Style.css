@@ -1,0 +1,55 @@
+p{
+  color: turquoise;
+  font-family: Dialog;
+  font-size: 20px;
+
+}
+h2{
+  color:rebeccapurple;
+  font-family: C059;
+  font-size: large;
+  text-align: left;
+}
+button{
+  color: rebeccapurple;
+  padding: 15px;
+  font-size: 16px;
+  background-color: lime;
+  border-inline-color: black;
+  margin: 20px;
+  text-align: -moz-center;
+}
+th{
+  border: 2px solid black;
+  font-size: large;
+  padding: 10px;
+  text-align: left;
+  color: lightsalmon;
+  max-font-size: 25px;
+  border-radius: 10px;
+}
+td{
+  border: 2px solid black;
+  font-family: "DejaVu Sans Mono";
+  padding: 10px;
+  text-align: center;
+  color: lightgreen;
+  background-color: dimgrey;
+  border-radius: 10px;
+}
+table{
+  width: 70%;
+  border-collapse: collapse;
+  margin: auto;
+}
+h1{background-color: aqua}
+ul{
+  font-family: "DejaVu Sans Mono";
+  color: darkgray;
+  font-size: x-large;
+}
+ol{
+  font-family: FreeSans;
+  column-fill: balance;
+}
+
